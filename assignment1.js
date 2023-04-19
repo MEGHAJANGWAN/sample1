@@ -46,9 +46,9 @@
 // let num1 = 3454;
 // console.log(typeof num1);
 
-// // ii) floating value
-// let num2 = 23.4;
-// console.log(typeof num2);
+// ii) floating value
+let num2 = 23.4;
+console.log(typeof num2);
 
 // // iii) infinity
 // let num3 = Number.POSITIVE_INFINITY;
